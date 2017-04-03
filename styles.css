@@ -1,11 +1,13 @@
 
 h2 {
-    font-style: Serif
+    font-style: Serif;
+    font-size: 30px
 }
 li {
      background-color: blue;
 }
 p {
+    font-size: 20px;
     margin-top: 50px;
     margin-bottom: 25px;
     margin-right: 100px;
@@ -16,4 +18,11 @@ img {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+}
+.headings {
+    font-size: 50px;
+    font-style: oblique;
+}
+html {
+    background-color: red;
 }
